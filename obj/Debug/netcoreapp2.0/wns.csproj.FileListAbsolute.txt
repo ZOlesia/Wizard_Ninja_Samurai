@@ -1,0 +1,10 @@
+C:\Users\56ole\Desktop\DojoAssignments\netCore\wns\bin\Debug\netcoreapp2.0\wns.deps.json
+C:\Users\56ole\Desktop\DojoAssignments\netCore\wns\bin\Debug\netcoreapp2.0\wns.runtimeconfig.json
+C:\Users\56ole\Desktop\DojoAssignments\netCore\wns\bin\Debug\netcoreapp2.0\wns.runtimeconfig.dev.json
+C:\Users\56ole\Desktop\DojoAssignments\netCore\wns\bin\Debug\netcoreapp2.0\wns.dll
+C:\Users\56ole\Desktop\DojoAssignments\netCore\wns\bin\Debug\netcoreapp2.0\wns.pdb
+C:\Users\56ole\Desktop\DojoAssignments\netCore\wns\obj\Debug\netcoreapp2.0\wns.csproj.CoreCompileInputs.cache
+C:\Users\56ole\Desktop\DojoAssignments\netCore\wns\obj\Debug\netcoreapp2.0\wns.AssemblyInfoInputs.cache
+C:\Users\56ole\Desktop\DojoAssignments\netCore\wns\obj\Debug\netcoreapp2.0\wns.AssemblyInfo.cs
+C:\Users\56ole\Desktop\DojoAssignments\netCore\wns\obj\Debug\netcoreapp2.0\wns.dll
+C:\Users\56ole\Desktop\DojoAssignments\netCore\wns\obj\Debug\netcoreapp2.0\wns.pdb
